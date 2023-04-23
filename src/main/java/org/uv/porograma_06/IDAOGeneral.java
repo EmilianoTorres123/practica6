@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author zuley
+ * @author emili
  */
 public interface IDAOGeneral <T,ID>{
     public T create(T p);//T->POJO
