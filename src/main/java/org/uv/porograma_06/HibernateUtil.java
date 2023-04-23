@@ -13,7 +13,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  *
- * @author zuley
+ * @author emili
  */
 public class HibernateUtil {
 
